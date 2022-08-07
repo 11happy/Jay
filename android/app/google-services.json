@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "83856804907",
+    "project_id": "legacy-of-chemistry-notes",
+    "storage_bucket": "legacy-of-chemistry-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83856804907:android:0f2e0e512bf42101aa6e6e",
+        "android_client_info": {
+          "package_name": "com.happy.jay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83856804907-lei4obp7r9agenk2gne7bjd6q6e0f0ds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.happy.jay",
+            "certificate_hash": "089050b92177d770e4467637757a0b79a8831313"
+          }
+        },
+        {
+          "client_id": "83856804907-8gf6qci9t48qgu90t9ntmfo2c8r8cisg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkuTNrJ6oJW_YQbBVoFk1Px257FZtvXbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83856804907-8gf6qci9t48qgu90t9ntmfo2c8r8cisg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
